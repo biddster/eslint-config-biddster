@@ -2,6 +2,7 @@ module.exports = {
     extends: "eslint:all",
     rules: {
         "quotes": "off",
+        "curly": "off",
         "capitalized-comments": "off",
         "spaced-comment": "off",
         "line-comment-position": "off",
@@ -20,6 +21,7 @@ module.exports = {
         "max-params": "off",
         "multiline-ternary": "off",
         "no-ternary": "off",
+        "no-plusplus": "off",
         "no-magic-numbers": "off",
         "no-multi-assign": "off",
         "no-undefined": "off",
