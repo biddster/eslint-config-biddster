@@ -6,8 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "@biddster",
   "license": "MIT",
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/biddster/eslint-config-biddster.git"
+  },
   "peerDependencies": {
     "eslint": ">= 3"
   },
