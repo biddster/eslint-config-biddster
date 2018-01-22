@@ -43,6 +43,8 @@ module.exports = {
         "no-use-before-define": "off",
         "global-require": "off",
         "sort-keys": "off",
-        "quote-props": "off"
+        "quote-props": "off",
+        "dot-location": "off",
+        "eol-last": "off"
     }
 };
