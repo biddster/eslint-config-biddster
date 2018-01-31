@@ -1,21 +1,26 @@
 {
-  "name": "eslint-config-biddster",
-  "version": "0.4.0",
-  "description": "",
-  "main": "es6-node.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "@biddster",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/biddster/eslint-config-biddster.git"
-  },
-  "peerDependencies": {
-    "eslint": ">= 3"
-  },
-  "engines": {
-    "node": ">= 4"
-  }
+    "name": "eslint-config-biddster",
+    "version": "0.5.0",
+    "description": "",
+    "main": "es6-node.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "@biddster",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/biddster/eslint-config-biddster.git"
+    },
+    "peerDependencies": {
+        "eslint": ">= 3"
+    },
+    "engines": {
+        "node": ">= 4"
+    },
+    "prettier": {
+        "singleQuote": true,
+        "tabWidth": 4,
+        "printWidth": 120
+    }
 }
