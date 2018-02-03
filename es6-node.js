@@ -46,6 +46,7 @@ module.exports = {
         'quote-props': 'off',
         'dot-location': 'off',
         'eol-last': 'off',
-        'no-invalid-this': 'off'
+        'no-invalid-this': 'off',
+        'multiline-comment-style': 'off'
     }
 };
